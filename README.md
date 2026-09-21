@@ -145,7 +145,7 @@ I build Generative AI applications, Retrieval-Augmented Generation (RAG) pipelin
 ## 🎓 Education
 
 - **B.Tech, Computer Science Engineering (AI & ML)**, Neil Gogte Institute of Technology, Hyderabad · 2024 – 2027 · CGPA 8.06 / 10
-- **Diploma in Tool & Die Making**, Central Institute of Tool Design (CITD), Hyderabad · 2020 – 2024 · 74.15%
+- **Diploma in Tool & Die Making**, Central Institute of Tool Design (CITD), Hyderabad · 2020 – 2024
 
 ---
 

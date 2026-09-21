@@ -21,7 +21,7 @@ I build Generative AI applications, Retrieval-Augmented Generation (RAG) pipelin
 
 - 🔭 Working on a hybrid pipeline to detect and reduce LLM hallucinations (final-year major project)
 - 🌐 Live RAG chatbot used by real users: [ragbotq.streamlit.app](https://ragbotq.streamlit.app)
-- 🧩 80+ LeetCode problems solved (arrays, strings, trees, graphs, SQL)
+- 🧩 100+ LeetCode problems solved (arrays, strings, trees, graphs, SQL)
 
 ---
 
